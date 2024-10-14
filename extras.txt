@@ -1,0 +1,1 @@
+    "ejs": "^3.1.6",   can be added to the package.json if required
